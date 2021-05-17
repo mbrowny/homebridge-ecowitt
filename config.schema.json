@@ -506,7 +506,7 @@
       "type": "fieldset",
       "expandable": true,
       "expanded": false,
-      "title": "Indoor Thermometer/Hygrometer/Barometer Sensor",
+      "title": "Outdoor Thermometer/Hygrometer Sensor (WH32)",
       "items": [
         "thbin.hide"
       ]
@@ -515,7 +515,7 @@
       "type": "fieldset",
       "expandable": true,
       "expanded": false,
-      "title": "Multi-Channel Thermometer/Hygrometer Sensors",
+      "title": "Multi-Channel Thermometer/Hygrometer Sensors (WH31)",
       "items": [
         "th.hide",
         {
@@ -541,7 +541,7 @@
       "type": "fieldset",
       "expandable": true,
       "expanded": false,
-      "title": "Lightning Detection Sensor",
+      "title": "Lightning Detection Sensor (WH57)",
       "items": [
         "lightning.hide",
         {
@@ -560,7 +560,7 @@
       "type": "fieldset",
       "expandable": true,
       "expanded": false,
-      "title": "Soil Moisture Sensors",
+      "title": "Soil Moisture Sensors (WH51)",
       "items": [
         "soil.hide",
         {
@@ -608,7 +608,7 @@
       "type": "fieldset",
       "expandable": true,
       "expanded": false,
-      "title": "PM2.5 Air Quality Sensors",
+      "title": "PM2.5 Air Quality Sensors (WH41, WH43, WH45)",
       "items": [
         "pm25.hide",
         {
