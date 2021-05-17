@@ -79,7 +79,7 @@ After the gateway or display console has been configuration has been updated, se
 * HP2551 - Weather Station Display Console
 * WH24 - Solar Powered 7-in-1 Outdoor Sensor
 * WH31 - Multi-Channel Temperature and humidity Sensor
-* WH32 - Indoor Temperature, Humidity and Barometric Sensor
+* WH32 - Outdoor Temperature and Humidity Sensor
 * WH41 - PM2.5 Air Quality Sensor Monitor Outdoor
 * WH51 - Wireless Soil Moisture Sensor
 * WH55 - Wireless Water Leak Detection Sensor with Loud Audio Alarm
